@@ -132,4 +132,3 @@ print("R²:", r2_score(y_test, y_pred))
 - [ ] Convert the notebook into modular `.py` scripts (`data_prep.py`, `train.py`, `predict.py`) for production readiness.
 - [ ] Add logging and error handling instead of relying on manual notebook re-runs.
 - [ ] Set up a CI workflow (GitHub Actions) to lint and test the code on every push.
-
