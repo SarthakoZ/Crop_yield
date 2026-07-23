@@ -125,8 +125,8 @@ Update the dataset path in the first notebook cell if needed — it currently po
 ```
 .
 ├── Source.ipynb                        # Main notebook: cleaning + pipeline + model comparison
-├── dev.py                              # Streamlit app (loads crop_yield_prediction_model.pkl)
-├── crop_yield_prediction_model.pkl     # Serialized final pipeline (Linear Regression)
+├── app.py                              # Streamlit app (loads crop_yield_prediction_final_model.pkl)
+├── crop_yield_prediction_final_model.pkl     # Serialized final pipeline (Linear Regression)
 ├── Crop_Yield_Messy_Dataset_500.xlsx   # Raw dataset
 ├── README.md
 ├── CONTEXT.md
@@ -136,4 +136,4 @@ Update the dataset path in the first notebook cell if needed — it currently po
 
 ## ✅ Status
 
-The project is complete and deployed. Try the live app: https://cropyield-7gfdgahslcjw3fxo6uf2kj.streamlit.app/
+The project is complete and deployed. Try the live app: https://cropyield-4mtk2x4lubhk8bxu4qutqn.streamlit.app/
