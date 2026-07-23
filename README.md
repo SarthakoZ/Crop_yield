@@ -4,7 +4,7 @@ Predicting crop yield (tons/hectare) from agricultural and environmental feature
 
 **Author:** [SarthakoZ](https://github.com/SarthakoZ)
 
-**🔗 Live App:** [cropyield-7gfdgahslcjw3fxo6uf2kj.streamlit.app](https://cropyield-7gfdgahslcjw3fxo6uf2kj.streamlit.app/)
+**🔗 Live App:** [cropyield-4mtk2x4lubhk8bxu4qutqn.streamlit.app](https://cropyield-4mtk2x4lubhk8bxu4qutqn.streamlit.app/)
 
 ---
 
