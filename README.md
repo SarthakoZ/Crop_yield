@@ -136,4 +136,4 @@ Update the dataset path in the first notebook cell if needed — it currently po
 
 ## ✅ Status
 
-The project is complete and deployed. Try the live app: https://cropyield-4mtk2x4lubhk8bxu4qutqn.streamlit.app/
+The project is complete and deployed. Try the live app: https://cropyield-4mtk2x4lubhk8bxu4qutqn.streamlit.app
